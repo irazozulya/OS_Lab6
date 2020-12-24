@@ -1,0 +1,13 @@
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\bin\Debug\netcoreapp3.1\OS_Lab6.exe
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\bin\Debug\netcoreapp3.1\OS_Lab6.deps.json
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\bin\Debug\netcoreapp3.1\OS_Lab6.runtimeconfig.json
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\bin\Debug\netcoreapp3.1\OS_Lab6.runtimeconfig.dev.json
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\bin\Debug\netcoreapp3.1\OS_Lab6.dll
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\bin\Debug\netcoreapp3.1\OS_Lab6.pdb
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\obj\Debug\netcoreapp3.1\OS_Lab6.csprojAssemblyReference.cache
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\obj\Debug\netcoreapp3.1\OS_Lab6.AssemblyInfoInputs.cache
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\obj\Debug\netcoreapp3.1\OS_Lab6.AssemblyInfo.cs
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\obj\Debug\netcoreapp3.1\OS_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\obj\Debug\netcoreapp3.1\OS_Lab6.dll
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\obj\Debug\netcoreapp3.1\OS_Lab6.pdb
+C:\Users\irazozulya\source\repos\OS_Lab6\OS_Lab6\obj\Debug\netcoreapp3.1\OS_Lab6.genruntimeconfig.cache
